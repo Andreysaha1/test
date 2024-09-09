@@ -1,0 +1,9 @@
+{
+  "icon": "https://logic-arrows.io/res/sprites/arrow1.png?v=1_2_1",
+  "name": "test",
+  "author": "Andreysaha1",
+  "script": "https://raw.githubusercontent.com/Andreysaha1/test/main/mod.js",
+  "id": "test",
+  "description": "test",
+  "xdlcversion": 2
+}

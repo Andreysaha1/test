@@ -9,4 +9,4 @@ const mod = FAPI.registerMod('test');
 // region arrow
 const arrow = mod.registerArrow(0);
 arrow.name = ['arrow'];
-arrow.icon_url = "https://logic-arrows.io/res/sprites/arrow1.png?v=1_2_1";
+arrow.icon_url = "https://raw.githubusercontent.com/Andreysaha1/test/main/arrow19%20(2).png";

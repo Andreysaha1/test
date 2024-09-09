@@ -12,4 +12,4 @@ arrow.name = ['arrow'];
 arrow.icon_url = "https://raw.githubusercontent.com/Andreysaha1/test/main/arrow19%20(2).png";
 arrow.transmit = (arrow) => {
     if (arrow.signal === 1) ChunkUpdates.updateCount(arrow, ChunkUpdates.sgetArrowAt(arrow, -1, 0))
-};
+} ;

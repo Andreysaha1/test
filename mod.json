@@ -1,9 +1,9 @@
 {
-  "icon": "https://logic-arrows.io/res/sprites/arrow1.png?v=1_2_1",
-  "name": "test",
+  "icon": "https://raw.githubusercontent.com/Andreysaha1/test/main/images.jfif",
+  "name": "Яйце стрелочка",
   "author": "Andreysaha1",
   "script": "https://raw.githubusercontent.com/Andreysaha1/test/main/mod.js",
-  "id": "test",
-  "description": "test",
+  "id": "1487",
+  "description": "дает вам возможность ставить яйцо(яйцо ничего не делает оно нужно просто так)",
   "xdlcversion": 2
 }
